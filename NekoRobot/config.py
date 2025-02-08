@@ -14,18 +14,18 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 1234567  # integer value, dont use ""
-    API_HASH = "123458494"
-    TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    STRING_SESSION = "12345abc6"
+    API_ID = 25702807  # integer value, dont use ""
+    API_HASH = "3d288d588c5864176000f28bb8772751"
+    TOKEN = "7639153782:AAHvy2wUC49JFqZzN3qdkASbeyIAjjoGKqM"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    STRING_SESSION = "1BJWap1sBuxSbAflGMAYKf4wJlAFFIX4m_0aeKw7seOLXH1i7DHejsnTgSD9S1pAJ7LyvY0Jc3E01Z_9BM-yK76bUghmNE_7K6JPAg9vEyGnO3aEZcsDvluHfWyxggpMMD6NYMJ2i9T8_0Di1MQrV-tdwsxbm-2XmPJC4FIG2I4bK4ABJAvlyRJ6Kypn3P4FXcRuTLAcW1XrlfwfWAL6muSG1bz3f8WszVFzFXvLkK2nlNJFmzLkhEfyJmRQ7GzsVsAuqXuHzu1Ck3xziPOiZRmdS4pN2aprJne62TO_nrULjYtxJQurK4qQh3GemGvUlPPP-bAeDJtczSMqMrT-3FgoTPEuIg4o="
     OWNER_ID = 1732814103  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "Awesome_Prince"
     SUPPORT_CHAT = "Besties_XD"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001739802989
+        -1002299518920
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001739802989
+        -1002299518920
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
